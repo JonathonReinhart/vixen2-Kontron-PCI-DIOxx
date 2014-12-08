@@ -1,0 +1,31 @@
+
+From ACCES I/O:
+http://accesio.com/go.cgi?p=/cat/kontron.html
+
+	Since 1987 ACCES I/O Products, Inc. has provided data acquisition and control products to the
+	market as an OEM (original equipment manufacturer) through Kontron (actually ICS, then
+	ICS Advent, and then Kontron).
+
+	In February, 2010, many Kontron customers were surprised to receive an EOL (End of Life)
+	notification regarding a large variety of ACCES I/O data acquisition and control products.
+	Please note, these products are actually not EOL'd, Kontron has simply decided to eliminate
+	these products from their overall product offering. ACCES has no plans to discontinue
+	manufacturing any of its products listed in the EOL notification below. Many of the products we
+	first designed back in 1987 are still shipping to this day. We have great experience and pride
+	with our capability to design and manufacture products with extended life cycles.
+
+	The ACCES part numbers listed below are 100% replacements for corresponding Kontron products.
+	Kontron’s Last Time Buy on August 31, 2010 simply means that you will have to purchase these
+	products from ACCES or through one of our distributors/resellers.
+
+	
+I think this is the board this code was written to work with:
+
+	http://accesio.com/go.cgi?p=/pci/pci_dio_48.html
+
+While I can't find the original zip file of everything I used to get started on this plugin, there
+appears to be a whole bunch of possibly related stuff here:
+
+	http://accesio.com/files/
+	
+	
