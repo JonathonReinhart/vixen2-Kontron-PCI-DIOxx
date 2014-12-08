@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontron_NET", "Kontron_NET\Kontron_NET.csproj", "{DA5AF00F-E304-4FA8-80F6-AEF50EF4494E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontron_NET_Test1", "Kontron_NET_Test1\Kontron_NET_Test1.csproj", "{AC3BEEA1-5D35-4E66-AF7F-F44618BB186E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontron_PCI_DIO_VixenPlugin_25", "Kontron_PCI_DIO_VixenPlugin\Kontron_PCI_DIO_VixenPlugin_25.csproj", "{C0298C81-4E85-4972-A1CE-48433A109580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KontronVixenPlugin_Test1", "KontronVixenPlugin_Test1\KontronVixenPlugin_Test1.csproj", "{1BD78693-F1D6-4806-9734-267026A3F645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontron_PCI_DIO_VixenPlugin_21", "Kontron_PCI_DIO_VixenPlugin\Kontron_PCI_DIO_VixenPlugin_21.csproj", "{9A0F1AB4-2E71-43F3-B7CE-ADC0F9CFB1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA5AF00F-E304-4FA8-80F6-AEF50EF4494E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5AF00F-E304-4FA8-80F6-AEF50EF4494E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5AF00F-E304-4FA8-80F6-AEF50EF4494E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5AF00F-E304-4FA8-80F6-AEF50EF4494E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3BEEA1-5D35-4E66-AF7F-F44618BB186E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3BEEA1-5D35-4E66-AF7F-F44618BB186E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3BEEA1-5D35-4E66-AF7F-F44618BB186E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3BEEA1-5D35-4E66-AF7F-F44618BB186E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0298C81-4E85-4972-A1CE-48433A109580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0298C81-4E85-4972-A1CE-48433A109580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0298C81-4E85-4972-A1CE-48433A109580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0298C81-4E85-4972-A1CE-48433A109580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD78693-F1D6-4806-9734-267026A3F645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD78693-F1D6-4806-9734-267026A3F645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD78693-F1D6-4806-9734-267026A3F645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD78693-F1D6-4806-9734-267026A3F645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0F1AB4-2E71-43F3-B7CE-ADC0F9CFB1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0F1AB4-2E71-43F3-B7CE-ADC0F9CFB1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0F1AB4-2E71-43F3-B7CE-ADC0F9CFB1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0F1AB4-2E71-43F3-B7CE-ADC0F9CFB1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
